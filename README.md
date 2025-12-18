@@ -1,17 +1,45 @@
-# 💫 About Me:
-<br>🛠 **I’m currently working on**  <br>Exploring advanced Python concepts including OOP, Pandas, and modern frameworks. I'm also building innovative projects using OpenCV, OpenAI, and Agentic AI. On the frontend side, I work with HTML, CSS, JavaScript, and other modern libraries to craft responsive UIs.  <br><br>
+# 💫 About Me
 
-🤝 **I’m looking to collaborate on**  <br>Exciting projects that involve AI, machine learning, automation, or intelligent agent development. I'm especially interested in contributing to open-source projects and tools built with LangChain, LangGraph, or the OpenAI SDK.  <br><br>
+🛠 **Currently Working On**
+I’m actively building and experimenting with **Agentic AI systems**, focusing on intelligent workflows, autonomous decision-making, and real-world AI applications. My work spans advanced **Python development**, **object-oriented design**, **data processing with Pandas**, and modern AI frameworks.
+I also develop responsive and user-focused web interfaces using **HTML, CSS, JavaScript**, and modern frontend practices.
 
-🙏 **I’m looking for help with**  <br>Enhancing my skills in agent development, especially with custom GPTs and Hugging Face models. I’m also exploring scalable automation workflows and would love to exchange ideas on solving real-world AI problems.  <br><br>
+🤝 **Open to Collaborations**
+I’m eager to collaborate on projects involving **AI, machine learning, intelligent agents, automation, and open-source development**.
+Particularly interested in projects leveraging **LangChain, LangGraph, OpenAI SDK**, and agent-based architectures.
 
-🌱 **I’m currently learning**  <br>Deep-diving into agentic and advanced AI development, LangGraph, Hugging Face, and OpenAI SDK. I'm also sharpening my DSA skills through LeetCode, Codeforces, and HackerRank, while picking up full-stack tools and best practices.  <br><br>
+🙏 **Looking for Help With**
+I’m continuously improving my expertise in **Agentic AI development**, including:
 
-💬 **Ask me about**  <br>Python, OpenCV, automation, and OpenAI APIs. I also enjoy discussing agentic AI, LangChain, LangGraph, and frontend development. If you're curious about custom GPTs or how to integrate AI into your app — I’m your person!  <br><br>
+* Custom GPTs and AI agents
+* Hugging Face model integration
+* Scalable automation pipelines
+* Designing production-ready AI systems
 
-⚡ **Fun fact**  <br>I love turning raw ideas into interactive AI models and real-world applications. Building things that blend creativity, logic, and code is what excites me the most!
+I enjoy exchanging ideas and learning through collaboration on impactful AI solutions.
 
+🌱 **Currently Learning**
 
+* Advanced **Agentic AI architectures**
+* LangGraph & multi-agent systems
+* Hugging Face ecosystem
+* OpenAI SDK (tool calling, agents, workflows)
+* Data Structures & Algorithms (LeetCode, Codeforces, HackerRank)
+* Full-stack best practices and system design
+
+💬 **Ask Me About**
+
+* Python & automation
+* Agentic AI systems
+* OpenAI APIs & custom GPTs
+* LangChain & LangGraph
+* OpenCV & AI-powered applications
+* Frontend development & AI integration
+
+⚡ **Fun Fact**
+I love transforming abstract ideas into **intelligent, interactive AI systems**. Building solutions that combine creativity, logic, and engineering is what motivates me most.
+
+---
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mudassarabrarbaig_17945) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/muhammad-mudassir-abrar-baig-65aa38338) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mudassarabrarr@gmail.com) 
